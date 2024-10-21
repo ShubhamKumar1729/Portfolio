@@ -36,4 +36,4 @@ Currently working on an innovative platform aimed at enhancing user experience a
 **Long-Term:** Secure an internship in software development.
 
 ## Contact
-Thank you for visiting my portfolio! Feel free to reach out via [email](shubh900688@gmail.com).
+Thank you for visiting my portfolio! Feel free to reach out via email - shubh900688@gmail.com
