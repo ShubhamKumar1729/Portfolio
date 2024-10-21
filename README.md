@@ -1,7 +1,5 @@
 # Shubham Kumar's Portfolio
 
-![Shubham Kumar's Profile Picture](s.png)
-
 ## About Me
 I am a passionate first-year B.Tech student specializing in Computer Science Engineering (CSE). I aim to become a skilled software developer with a focus on languages such as C++ and Java.
 
@@ -20,9 +18,9 @@ I am a passionate first-year B.Tech student specializing in Computer Science Eng
 - Visual Studio Code
 
 ## Certifications
-- [Hackathon Participation Certificate](#) - *[Institution/Organizer], [Date]*
-- [Python Course Certificate](#) - *[Platform], [Date]*
-- [Open Source Community Certificate](#) - *[Organization], [Date]*
+- [Hackathon Participation Certificate](#) 
+- [Python Course Certificate](#) 
+- [Open Source Community Certificate](#) 
 
 ## Projects
 ### [Amazon Clone](#)
